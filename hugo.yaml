@@ -1,0 +1,15 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+
+theme: 'PaperMod'
+
+# params:
+#   ananke_socials:
+#     - name: telegram
+#       url: 'https://ttttt.me/jtprogru_chat'
+#     - name: twitter
+#       url: 'https://twitter.com/jtprogru'
+#     - name: vkcom
+#       url: "https://vk.com/jtprogru_channel"
+
